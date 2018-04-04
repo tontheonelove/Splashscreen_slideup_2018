@@ -1,3 +1,3 @@
 # Splashscreen_slideup_2018
 
-<img scr=Untitled.png/>
+<img src=Untitled.png/>
